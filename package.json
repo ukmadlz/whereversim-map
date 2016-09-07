@@ -1,0 +1,25 @@
+{
+  "name": "whereversim-map",
+  "version": "0.0.1",
+  "description": "A quick mapping app taking lat:long from device and displaying in mapbox via Cloudant Dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ukmadlz/whereversim-map.git"
+  },
+  "author": "Mike Elsmore <mike@elsmore.me>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ukmadlz/whereversim-map/issues"
+  },
+  "homepage": "https://github.com/ukmadlz/whereversim-map#readme",
+  "dependencies": {
+    "async": "^2.0.1",
+    "dotenv": "^2.0.0",
+    "lodash": "^4.15.0",
+    "whereversim-nodejs": "git+https://github.com/whatevermobile/whereversim-nodejs.git"
+  }
+}
