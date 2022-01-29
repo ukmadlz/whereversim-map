@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ukmadlz/whereversim-map#readme",
   "dependencies": {
-    "async": "^2.0.1",
+    "async": "^3.2.3",
     "dotenv": "^2.0.0",
     "lodash": "^4.15.0",
     "whereversim-nodejs": "git+https://github.com/whatevermobile/whereversim-nodejs.git"
